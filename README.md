@@ -1,16 +1,14 @@
-# 🌟 **Nguyễn Thị Thanh Thúy** 🌟
+<div align="center">
+#  **Nguyễn Thị Thanh Thúy** 
 
 ### 🚀 *Developer*
+</div>
 
 <div align="center">
 
 <img src="asserts/image/avatar1.jpg" width="300" alt="Avatar" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║    "Code with passion – Build with purpose"                     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nguyentthanhthuy\&color=blueviolet\&style=for-the-badge)
 
@@ -24,17 +22,17 @@
 <tr>
 <td width="50%">
 
-### 🏆 **Achievements**
+###  **Achievements**
 
-* 🌟 Passionate Developer
-* 🎓 Focus on modern web development
-* 💡 Love solving real-world problems
+*  Passionate Developer
+*  Focus on modern web development
+*  Love solving real-world problems
 
-### 🎯 **Current Focus**
+###  **Current Focus**
 
-* 🔧 Web Development
-* 🌐 UI/UX Basics
-* 📚 Backend Logic & API Development
+*  Web Development
+*  UI/UX Basics
+*  Backend Logic & API Development
 
 </td>
 <td width="50%">
@@ -82,39 +80,6 @@ motto: "Keep improving every single day"
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 </div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-
-### 🔥 **GitHub Streak**
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌟 **Future Goals**
-
-```mermaid
-graph LR
-    A[Learn More Laravel] --> B[Master Docker]
-    B --> C[Improve Frontend]
-    C --> D[Build Real Projects]
-    D --> A
-```
-
-* 🌱 Continue improving backend logic
-* 🧠 Learn more advanced API design
-* 🚀 Improve frontend with Vue.js
 
 ---
 
