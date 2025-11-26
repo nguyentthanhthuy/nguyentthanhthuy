@@ -1,103 +1,42 @@
 <div align="center">
 
-# 🌟 **Nguyễn Thị Thanh Thúy** 🌟
+# 👋 Hi, I'm Nguyễn Thị Thanh Thúy
 
-###  *Developer*
+<img src="asserts/image/avatar1.jpg" width="200" alt="Avatar" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 
-<img src="asserts/image//avatar1.jpg" width="200" alt="Avatar" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=nguyentthanhthuy\&color=blueviolet\&style=for-the-badge)
+* 👨‍💻 Developer
+* 📫 How to reach me: [nttthuy1403@gmail.com]
+* 🚀 Passionate about Laravel, PHP, Vue, MySQL, Docker, and modern web development
 
 </div>
 
----
+<h3 align="left">📲 Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your_email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/nguyentthanhthuy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
-## 🎓 **About Me**
+<h3 align="left">🚀 Tech Stack:</h3>
+<div align="left">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
+<h3 align="left">📊 GitHub Activity:</h3>
 <table>
-<tr>
-<td width="60%">
-
-###  **Achievements**
-
-*  Passionate Developer
-*  Focus on modern web development
-*  Love solving real-world problems
-
-###  **Current Focus**
-
-*  Web Development
-*  UI/UX Basics
-*  Backend Logic & API Development
-
-</td>
-<td width="40%">
-
-### 🔥 **Quick Facts**
-
-```yaml
-name: "Nguyễn Thị Thanh Thúy"
-role: "Developer"
-skills: ["Laravel", "PHP", "MySQL", "Vue", "Docker"]
-passion: "Learning & building new web applications"
-motto: "Keep improving every single day"
-```
-
-</td>
-</tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nguyentthanhthuy&show_icons=true&theme=dark&locale=en" alt="nguyentthanhthuy" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentthanhthuy&show_icons=true&theme=dark&locale=en&layout=compact" alt="nguyentthanhthuy" /></td>
+  </tr>
 </table>
 
----
-
-## 🛠️ **Technology Arsenal**
-
 <div align="center">
-
-### **Frontend Skills**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### **Backend Skills**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### **Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### **DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentthanhthuy&theme=dark" alt="nguyentthanhthuy" /></p>
 </div>
-
----
-
-## 📬 **Connect With Me**
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-###  **"Every day is a chance to become better"**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
-
-
-
-
-
