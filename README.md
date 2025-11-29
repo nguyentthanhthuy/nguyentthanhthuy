@@ -12,7 +12,7 @@
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
-  <a href="https://portfolio-nguyentthanhthuy.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://portfolio-nguyentthanhthuy.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="mailto:nttthuy1403@.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/nguyentthanhthuy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
