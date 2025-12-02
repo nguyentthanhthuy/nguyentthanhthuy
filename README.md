@@ -6,15 +6,17 @@
   <img src="asserts/image/avatar1.jpg" width="200" alt="Avatar" style="border-radius: 50%;" />
 </p>
 
+### 💌 Connect With Me
+
 <p align="center">
   <a href="https://portfolio-nguyentthanhthuy.vercel.app">
-    <img src="https://img.shields.io/badge/🌟_Portfolio-Visit-ff69b4?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:nttthuy1403@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Contact-red?style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/nguyentthanhthuy">
-    <img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -72,21 +74,7 @@
 
 ---
 
-### 💌 Connect With Me
 
-<p align="center">
-  <a href="https://portfolio-nguyentthanhthuy.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:nttthuy1403@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/nguyentthanhthuy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyentthanhthuy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
