@@ -1,42 +1,97 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thanh+Th%C3%BAy;Full-Stack+Developer;Laravel+%7C+Vue.js+Expert;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-# 👋 Hi, I'm Nguyễn Thị Thanh Thúy
+<p align="center">
+  <img src="asserts/image/avatar1.jpg" width="200" alt="Avatar" style="border-radius: 50%;" />
+</p>
 
-<img src="asserts/image/avatar1.jpg" width="200" alt="Avatar" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+<p align="center">
+  <a href="https://portfolio-nguyentthanhthuy.vercel.app">
+    <img src="https://img.shields.io/badge/🌟_Portfolio-Visit-ff69b4?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="mailto:nttthuy1403@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Contact-red?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://github.com/nguyentthanhthuy">
+    <img src="https://img.shields.io/badge/💻_GitHub-Follow-black?style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
 
-* 👨‍💻 Developer
-* 📫 How to reach me: [nttthuy1403@gmail.com]
-* 🚀 Passionate about Laravel, PHP, Vue, MySQL, Docker, and modern web development
+---
 
-</div>
+### 👩‍💻 About Me
 
-<h3 align="left">📲 Connect with me:</h3>
-<div align="left">
-  <a href="https://portfolio-nguyentthanhthuy.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="mailto:nttthuy1403@.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/nguyentthanhthuy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
-<h3 align="left">🚀 Tech Stack:</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+- 🔭 Currently working on **scalable web applications**
+- 🌱 Learning advanced **Docker** and **cloud technologies**
+- 💼 Expertise in **Laravel** & **Vue.js** ecosystems
+- 🎯 Focus: **Clean code** & **best practices**
+- ⚡ Fun fact: **I love solving complex problems with elegant solutions**
+- 📫 Reach me: **nttthuy1403@gmail.com**
 
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=nguyentthanhthuy&show_icons=true&theme=dark&locale=en" alt="nguyentthanhthuy" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentthanhthuy&show_icons=true&theme=dark&locale=en&layout=compact" alt="nguyentthanhthuy" /></td>
-  </tr>
-</table>
+<br clear="right"/>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentthanhthuy&theme=dark" alt="nguyentthanhthuy" /></p>
-</div>
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,docker,git,github,vscode,postman&perline=6" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nguyentthanhthuy&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentthanhthuy&theme=dracula&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentthanhthuy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyentthanhthuy&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyentthanhthuy&theme=dracula&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
+</p>
+
+---
+
+### 💌 Connect With Me
+
+<p align="center">
+  <a href="https://portfolio-nguyentthanhthuy.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:nttthuy1403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/nguyentthanhthuy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyentthanhthuy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." - NguyenThuy</i>
+</p>
