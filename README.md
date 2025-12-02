@@ -45,18 +45,7 @@
 
 ---
 
-### 📈 GitHub Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nguyentthanhthuy&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentthanhthuy&theme=dracula&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentthanhthuy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
-</p>
-
----
 
 ### 🏆 GitHub Achievements
 
